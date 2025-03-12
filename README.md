@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Programming**
 
-- 👨‍💻 All of my projects are available at [https://jyotirmoy120.github.io/Jyotirmoy-animated-portfolio/](https://jyotirmoy120.github.io/Jyotirmoy-animated-portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jyotirmoyportfolio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React JS, NodeJS, ExpressJS, Django, C++**
 
