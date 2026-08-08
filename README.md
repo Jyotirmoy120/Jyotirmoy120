@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://jyotirmoyportfolio.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React JS, NodeJS, ExpressJS, Django, C++**
+- 💬 Ask me about **AS400/IBM i, COBOL, CL, DB2/400, WINS, DevOps, Python, AIML**
 
 - 📫 How to reach me **raja.raja1707.2004@gmail.com**
 
