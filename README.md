@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoy120&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirmoy120" /> </p>
 
-- 🌱 I’m currently learning **Programming**
+- 💼 I’m currently working as a **Software Engineer** at **Key Management Group, Inc.**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://jyotirmoyportfolio.netlify.app/)
 
